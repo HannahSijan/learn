@@ -8,6 +8,11 @@ chicken
 rice
 
 
+beans
+carrot
+pizza
+
+
 
 
 thank you
